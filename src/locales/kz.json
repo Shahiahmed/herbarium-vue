@@ -1,0 +1,66 @@
+{
+  "login": {
+    "login": "Кіру",
+    "title": "Авторизация",
+    "username": "Аты",
+    "password": "Құпия сөз",
+    "signin": "Кіру",
+    "forgot": "Құпия сөз ұмыттыңызба?"
+  },
+  "signup": {
+    "signup": "Тіркелу",
+    "create": "Аккаунт ашу",
+    "username": "Аты",
+    "password": "Құпия сөз",
+    "confirm": "Құпия сөзді растау",
+    "register": "Тіркелу"
+  },
+  "home": {
+    "home": "Басты бет",
+    "mainSearchPlaceholder": "Атауы (Ғылыми атауы)",
+    "mainSearch": "Іздеу",
+    "dataPhoto": "Суреттер",
+    "dataSpecimens": "Үлгілер",
+    "dataTypes": "Түрлері",
+    "latestNews": "Соңғы жаңалықтар"
+  },
+  "catalogue": {
+    "catalogue": "Каталог",
+    "search": "Іздеу",
+    "family": "Отбасы",
+    "genus": "Тұқым",
+    "species": "Түрі"
+  },
+  "specimens": { "specimens": "Үлгілер" },
+  "herbarium": {
+    "herbarium": "Гербарий",
+    "filter": "Фильтр",
+    "name": "Ғылыми атауы",
+    "family": "Отбасы",
+    "genus": "Тұқым",
+    "country": "Ел",
+    "place": "Жері",
+    "collector": "Жинаушы",
+    "collectedYear": "Жиналған уақыт",
+    "hasFlower": "Гүлі бар",
+    "hasFruit": "Жемісі бар",
+    "clear": "Тазалау",
+    "search": "Іздеу",
+    "list": "Тізім",
+    "card": "Карточка",
+    "statistics": "Статистика"
+  },
+  "seeds": {
+    "seeds": "Тұмдар",
+    "filter": "Фильтр",
+    "name": "Ғылыми атауы",
+    "family": "Отбасы",
+    "genus": "Тұқым",
+    "country": "Елі",
+    "place": "Жері",
+    "clear": "Тазалау",
+    "search": "Іздеу"
+  },
+  "news": { "news": "Жаңалықтар", "learn": "Толығырақ" },
+  "about": { "about": "Біз туралы" }
+}

@@ -1,0 +1,47 @@
+@import "./base.css";
+@import "primeicons/primeicons.css";
+
+@media (min-width: 768px) {
+  .container {
+    margin: 0 100px;
+  }
+}
+.container {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+@media (min-width: 768px) {
+  .container-herb {
+    margin: 0 25px;
+  }
+}
+.container-herb {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+/* Sticky footer */
+#app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+}
+
+main {
+  flex: 1;
+}
+/* Page header */
+.page-title-background {
+  background-image: url("/images/back-search2.jpg");
+  background-size: cover; /* <------ */
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  align-items: center;
+}
+.page-title {
+  color: white;
+  font-size: 18px;
+  font-weight: normal;
+}

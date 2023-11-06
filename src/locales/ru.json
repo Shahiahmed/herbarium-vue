@@ -1,0 +1,66 @@
+{
+  "login": {
+    "login": "Войти",
+    "title": "Авторизация",
+    "username": "Имя пользователя",
+    "password": "Пароль",
+    "signin": "Войти",
+    "forgot": "Забыли пароль?"
+  },
+  "signup": {
+    "signup": "Регистрация",
+    "create": "Создать аккаунт",
+    "username": "Имя пользователя",
+    "password": "Пароль",
+    "confirm": "Подтвердить пароль",
+    "register": "Регистрация"
+  },
+  "home": {
+    "home": "Домой",
+    "mainSearchPlaceholder": "Название (научное название)",
+    "mainSearch": "Поиск",
+    "dataPhoto": "Фотографии",
+    "dataSpecimens": "Образцы",
+    "dataTypes": "Типы",
+    "latestNews": "Последние новости"
+  },
+  "catalogue": {
+    "catalogue": "Каталог",
+    "search": "Поиск",
+    "family": "Семейство",
+    "genus": "Род",
+    "species": "Виды"
+  },
+  "specimens": { "specimens": "Образцы" },
+  "herbarium": {
+    "herbarium": "Гербарий",
+    "filter": "Фильтр",
+    "name": "Название (научное название)",
+    "family": "Семейство",
+    "genus": "Род",
+    "country": "Страна",
+    "place": "Место",
+    "collector": "Автор",
+    "collectedYear": "Собранный год",
+    "hasFlower": "Имеет цветок",
+    "hasFruit": "Имеет фрукт",
+    "clear": "Очистить",
+    "search": "Поиск",
+    "list": "Список",
+    "card": "Карточка",
+    "statistics": "Статистика"
+  },
+  "seeds": {
+    "seeds": "Семена",
+    "filter": "Фильтр",
+    "name": "Название (научное название)",
+    "family": "Семейство",
+    "genus": "Род",
+    "country": "Страна",
+    "place": "Место",
+    "clear": "Очистить",
+    "search": "Поиск"
+  },
+  "news": { "news": "Новости", "learn": "Читать дальше" },
+  "about": { "about": "О нас" }
+}

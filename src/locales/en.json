@@ -1,0 +1,66 @@
+{
+  "login": {
+    "login": "Log in",
+    "title": "Authorization",
+    "username": "Username",
+    "password": "Password",
+    "signin": "Sign in",
+    "forgot": "Forgot password?"
+  },
+  "signup": {
+    "signup": "Sign up",
+    "create": "Create account",
+    "username": "Username",
+    "password": "Password",
+    "confirm": "Confirm password",
+    "register": "Registration"
+  },
+  "home": {
+    "home": "Home",
+    "mainSearchPlaceholder": "Species name (scientific name)",
+    "mainSearch": "Search",
+    "dataPhoto": "Photos",
+    "dataSpecimens": "Specimens",
+    "dataTypes": "Types",
+    "latestNews": "Latest news"
+  },
+  "catalogue": {
+    "catalogue": "Catalogue",
+    "search": "Search",
+    "family": "Family",
+    "genus": "Genus",
+    "species": "Species"
+  },
+  "specimens": { "specimens": "Specimens" },
+  "herbarium": {
+    "herbarium": "Herbarium",
+    "filter": "Filter",
+    "name": "Scientific name",
+    "family": "Family",
+    "genus": "Genus",
+    "country": "Country",
+    "place": "Place",
+    "collector": "Collector",
+    "collectedYear": "Collected year",
+    "hasFlower": "Has flower",
+    "hasFruit": "Has fruit",
+    "clear": "Clear",
+    "search": "Search",
+    "list": "List",
+    "card": "Card",
+    "statistics": "Statistics"
+  },
+  "seeds": {
+    "seeds": "Seeds",
+    "filter": "Filter",
+    "name": "Scientific name",
+    "family": "Family",
+    "genus": "Genus",
+    "country": "Country",
+    "place": "Place",
+    "clear": "Clear",
+    "search": "Search"
+  },
+  "news": { "news": "News", "learn": "Learn more" },
+  "about": { "about": "About us" }
+}
